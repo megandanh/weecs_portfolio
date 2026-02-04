@@ -2,9 +2,9 @@ const typedEl = document.getElementById("typed");
 if (typedEl) {
   const lines = [
     // Put in the text you want to loop through
-    "hi, i'm (your name)",
-    "Full-stack • ML • UI/UX",
-    "Let’s make something meaningful."
+    "(your name)",
+    "an (your major) engineer",
+    "creator"
   ];
 
   let lineIndex = 0;
